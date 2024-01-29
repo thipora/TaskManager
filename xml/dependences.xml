@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDependence xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Dependence>
+    <ID>3</ID>
+    <IDPendingTask>103</IDPendingTask>
+    <IDPreviousTask>104</IDPreviousTask>
+  </Dependence>
+</ArrayOfDependence>
